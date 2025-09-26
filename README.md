@@ -2,6 +2,7 @@
 
 A responsive and interactive **product landing page** designed for the fictional **SmartHydrate Bottle**.  
 Built using **HTML5, CSS3, JavaScript, jQuery, and Bootstrap 5**, this project demonstrates modern front-end UI/UX practices.  
+Link - https://sharonc-droid.github.io/Product_launch/
 
 ---
 
